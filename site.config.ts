@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'https://ukkodev.notion.site/UKKO-BLOG-6ebb1d77797c4caab4af24a5ddd8f743',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; sact this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Ukko Developer',
+  name: 'ukkodev',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'UKKO',
 
